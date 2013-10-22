@@ -1,0 +1,1651 @@
+1,Psalms,Psalms Intro-1:1
+1,Psalms,Psalms 1
+1,Psalms,Psalms 2
+1,Psalms,"Psalms 3, 4"
+1,Psalms,Psalms 5-7
+1,Psalms,Psalms 8
+1,Psalms,Psalms 9:1-11:1
+1,Psalms,Psalms 10:4-12:8
+1,Psalms,Psalms 13-15
+1,Psalms,"Psalms 16, 17"
+1,Psalms,"Psalms 17, 18"
+1,Psalms,"Psalms 19, 20"
+1,Psalms,"Psalms 21, 22"
+1,Psalms,Psalms 22
+1,Psalms,"Psalms 23, 24"
+1,Psalms,Psalms 25:1-27:1
+1,Psalms,"Psalms 27, 28"
+1,Psalms,"Psalms 29, 30"
+1,Psalms,Psalms 30:2-32:1
+1,Psalms,"Psalms 32, 33"
+1,Psalms,"Psalms 34, 35"
+1,Psalms,Psalms 36-38
+1,Psalms,Psalms 39-41
+1,Psalms,Psalms 42:1-44:4
+1,Psalms,Psalms 44:4-45:17
+1,Psalms,Psalms 46-48
+1,Psalms,"Psalms 49, 50"
+1,Psalms,Psalm 51
+1,Psalms,Psalms 52-55
+1,Psalms,Psalms 56-60
+1,Psalms,Psalms 61-66
+1,Psalms,"Psalms 67, 68"
+1,Psalms,Psalms 69-72
+1,Psalms,Psalms 73-75
+1,Psalms,Psalms 76-78
+1,Psalms,Psalms 79-81
+1,Psalms,Psalms 82-84
+1,Psalms,Psalms 85-88
+1,Psalms,"Psalms 89, 90"
+1,Psalms,Psalms 91-99
+1,Psalms,Psalms 100-102
+1,Psalms,Psalms 103-106
+1,Psalms,Psalms 107:1-110:1
+1,Psalms,Psalms 109-113
+1,Psalms,Psalms 114-116
+1,Psalms,"Psalms 117, 118"
+1,Psalms,Psalm 119
+1,Psalms,Psalms 120-123
+1,Psalms,Psalms 122-131
+1,Psalms,Psalms 132-136
+1,Psalms,"Psalms 137, 138"
+1,Psalms,"Psalms 138, 139"
+1,Psalms,Psalms 140-143
+1,Psalms,Psalms 144-150
+2,Galatians,Galatians Intro-1:1
+2,Galatians,Galatians 1:2-10
+2,Galatians,Galatians 1:11-24
+2,Galatians,Galatians 2:1-14
+2,Galatians,Galatians 2:14-20
+2,Galatians,Galatians 2:19-3:5
+2,Galatians,Galatians 3:4-7
+2,Galatians,Galatians 3:8-17
+2,Galatians,Galatians 3:13-22
+2,Galatians,Galatians 3:19-29
+2,Galatians,Galatians 4:1-7
+2,Galatians,Galatians 4:6-24
+2,Galatians,Galatians 4:9-31
+2,Galatians,Galatians 5:1-4
+2,Galatians,Galatians 5:5-16
+2,Galatians,Galatians 5:16-21
+2,Galatians,Galatians 5:22-26
+2,Galatians,Galatians 6:1-5
+2,Galatians,Galatians 6:6-11
+2,Galatians,Galatians 6:11-18
+3,Job,Job 1:1-5
+3,Job,Job 1:6-2:3
+3,Job,Job 2:4-3:12
+3,Job,Job 3:13-26
+3,Job,Job 4:1-5:7
+3,Job,Job 5:7-6:15
+3,Job,Job 6:15-8:22
+3,Job,"Job 9, 10"
+3,Job,Job 11:1-13:4
+3,Job,Job 13:3-15:35
+3,Job,Job 16:1-18:2
+3,Job,Job 18:1-20:3
+3,Job,Job 20:1-22:2
+3,Job,"Job 22, 23"
+3,Job,Job 24:1-26:7
+3,Job,Job 26:7-28:28
+3,Job,"Job 29, 30"
+3,Job,Job 31:1-32:3
+3,Job,"Job 32, 33"
+3,Job,"Job 32, 33"
+3,Job,"Job 34, 35"
+3,Job,Job 36:1-38:7
+3,Job,Job 38:8-42:17
+4,Esther,Esther 1:1-3
+4,Esther,Esther 1:4-2:3
+4,Esther,Esther 2:4-15
+4,Esther,Esther 2:16-3:6
+4,Esther,Esther 3:7-4:2
+4,Esther,Esther 4:3-5:4
+4,Esther,Esther 5:5-6:8
+4,Esther,Esther 6:7-7:10
+4,Esther,Esther 8
+4,Esther,"Esther 9, 10"
+5,Nehemiah,Nehemiah 1:1-6
+5,Nehemiah,Nehemiah 1:7-2:16
+5,Nehemiah,Nehemiah 2:17-3:3
+5,Nehemiah,Nehemiah 3:4-27
+5,Nehemiah,Nehemiah 3:28-32
+5,Nehemiah,Nehemiah 4
+5,Nehemiah,Nehemiah 5
+5,Nehemiah,Nehemiah 6
+5,Nehemiah,Nehemiah 7
+5,Nehemiah,Nehemiah 8
+5,Nehemiah,Nehemiah 9
+5,Nehemiah,Nehemiah 10-13
+6,Ezra,"Ezra 1:1, 2"
+6,Ezra,Ezra 1:2-2:70
+6,Ezra,"Ezra 3, 4"
+6,Ezra,"Ezra 5, 6"
+6,Ezra,"Ezra 7, 8"
+6,Ezra,Ezra 9
+6,Ezra,Ezra 10
+7,1 Corinthians,1 Corinthians 1:1-8
+7,1 Corinthians,1 Corinthians 1:9-12
+7,1 Corinthians,1 Corinthians 1:13-31
+7,1 Corinthians,1 Corinthians 2
+7,1 Corinthians,1 Corinthians 3
+7,1 Corinthians,1 Corinthians 4
+7,1 Corinthians,1 Corinthians 5
+7,1 Corinthians,1 Corinthians 6
+7,1 Corinthians,1 Corinthians 7:1-21
+7,1 Corinthians,1 Corinthians 7:20-40
+7,1 Corinthians,1 Corinthians 8
+7,1 Corinthians,1 Corinthians 9
+7,1 Corinthians,1 Corinthians 10:1-22
+7,1 Corinthians,1 Corinthians 10:23-11:4
+7,1 Corinthians,1 Corinthians 11:4-16
+7,1 Corinthians,1 Corinthians 11:17-34
+7,1 Corinthians,1 Corinthians 12:1-7
+7,1 Corinthians,1 Corinthians 12:8-31
+7,1 Corinthians,1 Corinthians 12:31-14:2
+7,1 Corinthians,1 Corinthians 14
+7,1 Corinthians,1 Corinthians 15:1-8
+7,1 Corinthians,1 Corinthians 15:1-44
+7,1 Corinthians,1 Corinthians 15:35-58
+7,1 Corinthians,1 Corinthians 16
+8,2 Corinthians,2 Corinthians 1:1-3
+8,2 Corinthians,2 Corinthians 1:4-20
+8,2 Corinthians,2 Corinthians 1:10-2:13
+8,2 Corinthians,2 Corinthians 2:14-3:14
+8,2 Corinthians,2 Corinthians 3:11-18
+8,2 Corinthians,2 Corinthians 4:1-6
+8,2 Corinthians,2 Corinthians 4:3-18
+8,2 Corinthians,2 Corinthians 5:1-10
+8,2 Corinthians,2 Corinthians 5:10-15
+8,2 Corinthians,2 Corinthians 5:16-21
+8,2 Corinthians,2 Corinthians 6:1-11
+8,2 Corinthians,2 Corinthians 6:11-7:1
+8,2 Corinthians,2 Corinthians 7
+8,2 Corinthians,2 Corinthians 8:1-7
+8,2 Corinthians,2 Corinthians 8:8-9:5
+8,2 Corinthians,2 Corinthians 9:6-10:4
+8,2 Corinthians,2 Corinthians 10:1-11:5
+8,2 Corinthians,2 Corinthians 11
+8,2 Corinthians,2 Corinthians 12:1-16
+8,2 Corinthians,2 Corinthians 12:14-13:14
+9,1 Chronicles,1 Chronicles 1:1-9:1
+9,1 Chronicles,"1 Chronicles 9, 10"
+9,1 Chronicles,"1 Chronicles 11, 12"
+9,1 Chronicles,1 Chronicles 13:1-15:2
+9,1 Chronicles,1 Chronicles 15:1-16:7
+9,1 Chronicles,1 Chronicles 16:8-17:27
+9,1 Chronicles,"1 Chronicles 18, 19"
+9,1 Chronicles,1 Chronicles 20:1-21:13
+9,1 Chronicles,1 Chronicles 21:14-22:9
+9,1 Chronicles,1 Chronicles 22:10-23:32
+9,1 Chronicles,1 Chronicles 24:1-28:11
+9,1 Chronicles,1 Chronicles 28:11-29:30
+10,2 Chronicles,2 Chronicles 1:1-2:5
+10,2 Chronicles,2 Chronicles 2:5-5:8
+10,2 Chronicles,2 Chronicles 5:9-6:42
+10,2 Chronicles,2 Chronicles 7:1-14
+10,2 Chronicles,2 Chronicles 7:14-9:31
+10,2 Chronicles,2 Chronicles 10:1-12:10
+10,2 Chronicles,2 Chronicles 12:10-15:12
+10,2 Chronicles,2 Chronicles 15:13-17:9
+10,2 Chronicles,2 Chronicles 17:9-19:2
+10,2 Chronicles,2 Chronicles 19:1-21:7
+10,2 Chronicles,2 Chronicles 21:7-24:3
+10,2 Chronicles,2 Chronicles 24:1-26:5
+10,2 Chronicles,2 Chronicles 26:4-28:4
+10,2 Chronicles,2 Chronicles 28:5-30:16
+10,2 Chronicles,2 Chronicles 30:17-32:33
+10,2 Chronicles,2 Chronicles 33
+10,2 Chronicles,2 Chronicles 34-36
+11,Romans,Romans Introduction
+11,Romans,Romans 1:1-4
+11,Romans,Romans 1:3-13
+11,Romans,Romans 1:14-20
+11,Romans,Romans 1:21-32
+11,Romans,Romans 2:1-22
+11,Romans,Romans 2:21-3:9
+11,Romans,Romans 3:5-22
+11,Romans,Romans 3:22-31
+11,Romans,Romans 4
+11,Romans,Romans 5:1-9
+11,Romans,Romans 5:9-21
+11,Romans,Romans 6:1-14
+11,Romans,Romans 6:13-23
+11,Romans,Romans 7:1-6
+11,Romans,Romans 7:7-25
+11,Romans,Romans 8:1-8
+11,Romans,Romans 8:9-17
+11,Romans,Romans 8:18-28
+11,Romans,Romans 8:28-39
+11,Romans,Romans 9:1-5
+11,Romans,Romans 9:4-24
+11,Romans,Romans 9:25-10:6
+11,Romans,Romans 10:7-11:10
+11,Romans,Romans 11:11-25
+11,Romans,Romans 11:26-12:1
+11,Romans,Romans 12:1-11
+11,Romans,Romans 12:12-13:1
+11,Romans,Romans 13
+11,Romans,Romans 14:1-5
+11,Romans,Romans 14:5-17
+11,Romans,Romans 14:17-15:3
+11,Romans,Romans 15:4-16
+11,Romans,Romans 15:15-26
+11,Romans,Romans 15:25-16:2
+11,Romans,Romans 16:1-27
+12,1 Kings,1 Kings 1:1-2:2
+12,1 Kings,1 Kings 2:2-3:5
+12,1 Kings,1 Kings 3:6-4:34
+12,1 Kings,"1 Kings 5,6"
+12,1 Kings,1 Kings 7:1-8:45
+12,1 Kings,1 Kings 8:46-10:22
+12,1 Kings,1 Kings 10:23-12:33
+12,1 Kings,"1 Kings 13,14"
+12,1 Kings,1 Kings 14:30-16:30
+12,1 Kings,1 Kings 16:30-1 Kings 18:17
+12,1 Kings,1 Kings 18:17-46
+12,1 Kings,"1 Kings 19,20"
+12,1 Kings,1 Kings 21:1-22:38
+12,1 Kings,1 Kings 22:30-2 Kings 2:22
+13,2 Kings,2 Kings 2:23-4:44
+13,2 Kings,2 Kings 5
+13,2 Kings,2 Kings 6
+13,2 Kings,"2 Kings 7,8"
+13,2 Kings,"2 Kings 9,10"
+13,2 Kings,"2 Kings 11,12"
+13,2 Kings,2 Kings 13-15
+13,2 Kings,"2 Kings 16,17"
+13,2 Kings,2 Kings 18
+13,2 Kings,2 Kings 19:1-20:3
+13,2 Kings,2 Kings 20
+13,2 Kings,2 Kings 21:1-22:11
+13,2 Kings,2 Kings 22:2-23:27
+13,2 Kings,2 Kings 23:28-25:30
+14,1 Samuel,1 Samuel 1
+14,1 Samuel,1 Samuel 2:1-3:1
+14,1 Samuel,1 Samuel 3-5
+14,1 Samuel,1 Samuel 6-8
+14,1 Samuel,"1 Samuel 9,10"
+14,1 Samuel,"1 Samuel 11,12"
+14,1 Samuel,"1 Samuel 13,14"
+14,1 Samuel,1 Samuel 15
+14,1 Samuel,"1 Samuel 16,17"
+14,1 Samuel,1 Samuel 18:1-20:3
+14,1 Samuel,1 Samuel 20:3-22:2
+14,1 Samuel,"1 Samuel 22,23"
+14,1 Samuel,1 Samuel 24:1-25:24
+14,1 Samuel,1 Samuel 25:25-26:25
+14,1 Samuel,"1 Samuel 27,28"
+14,1 Samuel,"1 Samuel 29,30"
+14,1 Samuel,1 Samuel 31-2 Samuel 1
+15,2 Samuel,"2 Samuel 2,3"
+15,2 Samuel,"2 Samuel 4,5"
+15,2 Samuel,2 Samuel 6
+15,2 Samuel,2 Samuel 7
+15,2 Samuel,"2 Samuel 8,9"
+15,2 Samuel,"2 Samuel 10,11"
+15,2 Samuel,2 Samuel 11:27-12:31
+15,2 Samuel,"2 Samuel 13,14"
+15,2 Samuel,"2 Samuel 15,16"
+15,2 Samuel,"2 Samuel 17,18"
+15,2 Samuel,"2 Samuel 19,20"
+15,2 Samuel,2 Samuel 21:1-23:1
+15,2 Samuel,2 Samuel 23:2-24:25
+16,Acts,Acts 1:1-3
+16,Acts,Acts 1:3-26
+16,Acts,Acts 1:26-2:13
+16,Acts,Acts 2:14-47
+16,Acts,Acts 3
+16,Acts,Acts 4
+16,Acts,Acts 5
+16,Acts,Acts 6:1-7:3
+16,Acts,Acts 7
+16,Acts,Acts 8:1-26
+16,Acts,Acts 8:27-9:12
+16,Acts,Acts 9:13-38
+16,Acts,Acts 9:39-10:28
+16,Acts,Acts 10:29-11:30
+16,Acts,Acts 12
+16,Acts,Acts 13
+16,Acts,Acts 14
+16,Acts,Acts 15:1-13
+16,Acts,Acts 15:12-41
+16,Acts,Acts 15:40-16:40
+16,Acts,Acts 17:1-21
+16,Acts,Acts 17:22-18:8
+16,Acts,Acts 18:9-19:7
+16,Acts,Acts 19:2-20:5
+16,Acts,Acts 20:6-38
+16,Acts,Acts 21:1-25
+16,Acts,Acts 21:26-22:30
+16,Acts,Acts 23
+16,Acts,Acts 24
+16,Acts,Acts 24:25-25:23
+16,Acts,Acts 25:22-26:4
+16,Acts,Acts 26:1-28
+16,Acts,Acts 26:29-27:13
+16,Acts,Acts 27:14-35
+16,Acts,Acts 27:35-28:31
+17,Ruth,Ruth Intro-1:9
+17,Ruth,Ruth 1:10-2:2
+17,Ruth,Ruth 2:3-13
+17,Ruth,Ruth 2:14-23
+17,Ruth,Ruth 3:1-3
+17,Ruth,Ruth 3:4-18
+17,Ruth,Ruth 3:18-4:22
+18,Judges,Judges 1:1-3:11
+18,Judges,Judges 3:12-4:24
+18,Judges,Judges 5
+18,Judges,Judges 6:1-35
+18,Judges,Judges 6:36-7:25
+18,Judges,Judges 8:1-10:2
+18,Judges,Judges 10:3-11:11
+18,Judges,Judges 11:8-40
+18,Judges,"Judges 12, 13"
+18,Judges,Judges 14-16
+18,Judges,Judges 17-21
+19,Joshua,Joshua 1:1-9
+19,Joshua,Joshua 1:10-2:8
+19,Joshua,Joshua 2:9-4:18
+19,Joshua,Joshua 4:18-5:15
+19,Joshua,Joshua 6
+19,Joshua,Joshua 7:1-8:2
+19,Joshua,Joshua 8:3-10:14
+19,Joshua,Joshua 10:15-11:23
+19,Joshua,Joshua 12-14
+19,Joshua,Joshua 15-18
+19,Joshua,"Joshua 19, 20"
+19,Joshua,"Joshua 21, 22"
+19,Joshua,"Joshua 23, 24"
+20,Deuteronomy,Deuteronomy 1:1-35
+20,Deuteronomy,Deuteronomy 1:36-4:2
+20,Deuteronomy,Deuteronomy 4
+20,Deuteronomy,Deuteronomy 5
+20,Deuteronomy,"Deuteronomy 6, 7"
+20,Deuteronomy,Deuteronomy 8:1-9:6
+20,Deuteronomy,Deuteronomy 9:7-11:14
+20,Deuteronomy,Deuteronomy 11:15-13:6
+20,Deuteronomy,Deuteronomy 13:5-14:29
+20,Deuteronomy,"Deuteronomy 15,16"
+20,Deuteronomy,Deuteronomy 17:1-18:14
+20,Deuteronomy,Deuteronomy 18:15-19:21
+20,Deuteronomy,Deuteronomy 20:1-21:21
+20,Deuteronomy,Deuteronomy 21:22-23:1
+20,Deuteronomy,"Deuteronomy 23,24"
+20,Deuteronomy,"Deuteronomy 25,26"
+20,Deuteronomy,"Deuteronomy 27,28"
+20,Deuteronomy,Deuteronomy 29:1-30:13
+20,Deuteronomy,Deuteronomy 30:12-31:23
+20,Deuteronomy,Deuteronomy 31:24-34:12
+21,John,John Introduction
+21,John,John 1:1-18
+21,John,John 1:19-50
+21,John,John 1:51-2:11
+21,John,John 2:12-3:4
+21,John,John 3:5-36
+21,John,John 3:17-4:20
+21,John,John 4:21-54
+21,John,John 5:1-24
+21,John,John 5:25-47
+21,John,John 6:1-21
+21,John,John 6:22-54
+21,John,John 6:55-7:6
+21,John,John 7:7-53
+21,John,John 8:1-11
+21,John,John 8:12-59
+21,John,John 9:1-23
+21,John,John 9:24-41
+21,John,John 10:1-10
+21,John,John 10:11-42
+21,John,John 11:1-17
+21,John,John 11:17-57
+21,John,John 12:1-24
+21,John,John 12:25-50
+21,John,John 13:1-16
+21,John,John 13:17-38
+21,John,John 14:1-6
+21,John,John 14:7-31
+21,John,John 15:1-3
+21,John,John 15:3-27
+21,John,John 16:1-7
+21,John,John 16:8-28
+21,John,John 16:29-17:1
+21,John,John 17:2-26
+21,John,John 18:1-11
+21,John,John 18:11-40
+21,John,John 19:1-37
+21,John,John 19:38-20:18
+21,John,John 20:19-31
+21,John,John 21
+22,Numbers,Numbers 1:1-17
+22,Numbers,Numbers 1:18-2:34
+22,Numbers,"Numbers 3, 4"
+22,Numbers,Numbers 5:1-6:7
+22,Numbers,Numbers 6:8-7:89
+22,Numbers,"Numbers 8, 9"
+22,Numbers,Numbers 10:1-11:5
+22,Numbers,Numbers 11:5-12:16
+22,Numbers,"Numbers 13, 14"
+22,Numbers,Numbers 15:1-16:3
+22,Numbers,Numbers 16:4-17:13
+22,Numbers,"Numbers 18, 19"
+22,Numbers,Numbers 20
+22,Numbers,Numbers 21:1-22:5
+22,Numbers,Numbers 22:6-24:14
+22,Numbers,Numbers 24:15-26:65
+22,Numbers,Numbers 27:1-28:2
+22,Numbers,Numbers 28:3-30:16
+22,Numbers,Numbers 31-36
+23,Luke,Luke 1:1-4
+23,Luke,Luke 1:5-35
+23,Luke,Luke 1:36-80
+23,Luke,Luke 2:1-30
+23,Luke,Luke 2:31-3:8
+23,Luke,Luke 3:9-4:13
+23,Luke,Luke 4:14-43
+23,Luke,Luke 5
+23,Luke,Luke 6
+23,Luke,Luke 7:1-35
+23,Luke,Luke 7:36-8:56
+23,Luke,Luke 9:1-10:24
+23,Luke,Luke 10:25-42
+23,Luke,Luke 11
+23,Luke,Luke 12
+23,Luke,Luke 13:1-14:7
+23,Luke,Luke 14:7-15:3
+23,Luke,Luke 15:3-32
+23,Luke,Luke 16:1-18
+23,Luke,Luke 16:19-17:37
+23,Luke,Luke 18
+23,Luke,Luke 19
+23,Luke,Luke 20
+23,Luke,Luke 21
+23,Luke,Luke 22:1-34
+23,Luke,Luke 22:35-62
+23,Luke,Luke 22:63-23:43
+23,Luke,Luke 23:44-24:7
+23,Luke,Luke 24:7-53
+24,Leviticus,"Leviticus 1:1, 2"
+24,Leviticus,Leviticus 1:3-17; 6:8-13
+24,Leviticus,Leviticus 2
+24,Leviticus,Leviticus 3
+24,Leviticus,Leviticus 4:1-12
+24,Leviticus,Leviticus 4:13-35
+24,Leviticus,Leviticus 5
+24,Leviticus,"Leviticus 6, 7"
+24,Leviticus,Leviticus 8:1-13
+24,Leviticus,Leviticus 8:14-9:24
+24,Leviticus,Leviticus 10
+24,Leviticus,Leviticus 11:1-3
+24,Leviticus,Leviticus 11:4-47
+24,Leviticus,Leviticus 12
+24,Leviticus,Leviticus 13:1-3
+24,Leviticus,Leviticus 13:3-59
+24,Leviticus,Leviticus 14
+24,Leviticus,Leviticus 15:1-15
+24,Leviticus,Leviticus 15:16-16:4
+24,Leviticus,Leviticus 16:5-34
+24,Leviticus,Leviticus 17
+24,Leviticus,Leviticus 18
+24,Leviticus,Leviticus 19
+24,Leviticus,Leviticus 20
+24,Leviticus,"Leviticus 21, 22"
+24,Leviticus,Leviticus 23:1-14
+24,Leviticus,Leviticus 23:15-44
+24,Leviticus,Leviticus 24
+24,Leviticus,Leviticus 25
+24,Leviticus,Leviticus 26
+24,Leviticus,Leviticus 27
+25,Mark,Mark Intro-1:3
+25,Mark,Mark 1:1-15
+25,Mark,Mark 1:16-45
+25,Mark,Mark 2:1-23
+25,Mark,Mark 2:23-3:35
+25,Mark,Mark 4
+25,Mark,Mark 5
+25,Mark,Mark 6
+25,Mark,Mark 7
+25,Mark,Mark 8
+25,Mark,Mark 9
+25,Mark,Mark 10
+25,Mark,Mark 11
+25,Mark,Mark 12
+25,Mark,Mark 13
+25,Mark,Mark 14:1-21
+25,Mark,Mark 14:22-72
+25,Mark,Mark 15:1-37
+25,Mark,Mark 15:38-16:20
+26,Exodus,Exodus 1
+26,Exodus,Exodus 2:1-21
+26,Exodus,Exodus 2:21-3:8
+26,Exodus,Exodus 3:8-4:5
+26,Exodus,Exodus 4:6-5:2
+26,Exodus,Exodus 4:22-6:5
+26,Exodus,Exodus 6:6-7:1
+26,Exodus,Exodus 7:1-8:5
+26,Exodus,Exodus 8:6-9:7
+26,Exodus,Exodus 9:8-10:9
+26,Exodus,Exodus 10:10-11:10
+26,Exodus,Exodus 12:1-13
+26,Exodus,Exodus 12:13-51
+26,Exodus,Exodus 13:1-14:10
+26,Exodus,Exodus 14:10-31
+26,Exodus,Exodus 15
+26,Exodus,Exodus 16
+26,Exodus,Exodus 17
+26,Exodus,Exodus 18:1-19:5
+26,Exodus,Exodus 19:4-25
+26,Exodus,Exodus 20:1-17
+26,Exodus,Exodus 20:18-21:36
+26,Exodus,"Exodus 22, 23"
+26,Exodus,Exodus 24:1-25:9
+26,Exodus,Exodus 25:10-22
+26,Exodus,Exodus 25:23-26:14
+26,Exodus,Exodus 26:14-27:21
+26,Exodus,Exodus 28
+26,Exodus,Exodus 29
+26,Exodus,Exodus 30
+26,Exodus,Exodus 31:1-32:25
+26,Exodus,Exodus 32:26-33:23
+26,Exodus,"Exodus 34, 35"
+26,Exodus,"Exodus 36, 37"
+26,Exodus,Exodus 38
+26,Exodus,"Exodus 39, 40"
+27,Matthew,Matthew Intro
+27,Matthew,Matthew 1:1-15
+27,Matthew,Matthew 1:16-25
+27,Matthew,Matthew 2:1-11
+27,Matthew,Matthew 2:12-3:9
+27,Matthew,Matthew 3:10-4:11
+27,Matthew,Matthew 4:12-25
+27,Matthew,Matthew 5:1-5
+27,Matthew,Matthew 5:5-48
+27,Matthew,Matthew 5:42-6:34
+27,Matthew,Matthew 6:26-7:29
+27,Matthew,Matthew 5-7 Summary
+27,Matthew,Matthew 8:1-17
+27,Matthew,Matthew 8:18-9:14
+27,Matthew,Matthew 9:14-10:8
+27,Matthew,Matthew 10:9-11:6
+27,Matthew,Matthew 11:7-12:2
+27,Matthew,Matthew 12:3-13:2
+27,Matthew,Matthew 13:3-23
+27,Matthew,Matthew 13:24-43
+27,Matthew,Matthew 13:44-14:1
+27,Matthew,Matthew 14:1-36
+27,Matthew,Matthew 15
+27,Matthew,Matthew 16:1-28
+27,Matthew,Matthew 16:28-17:27
+27,Matthew,Matthew 18
+27,Matthew,Matthew 19:1-15
+27,Matthew,Matthew 19:14-20:23
+27,Matthew,Matthew 20:24-21:17
+27,Matthew,Matthew 21:18-22:14
+27,Matthew,Matthew 22:15-23:22
+27,Matthew,Matthew 23:23-24:3
+27,Matthew,Matthew 24:3-14
+27,Matthew,Matthew 24:14-32
+27,Matthew,Matthew 24:32-25:30
+27,Matthew,Matthew 25:31-26:22
+27,Matthew,Matthew 26:23-75
+27,Matthew,Matthew 27:1-50
+27,Matthew,Matthew 27:50-28:20
+28,Genesis,Genesis 1 Intro
+28,Genesis,Genesis 1 Intro (cont.)
+28,Genesis,Genesis 1:1
+28,Genesis,Genesis 1:2-25
+28,Genesis,Genesis 1:26-2:3
+28,Genesis,Genesis 2:4-25
+28,Genesis,Genesis 3:1-13
+28,Genesis,Genesis 3:14-4:5
+28,Genesis,Genesis 4:6-5:22
+28,Genesis,Genesis 5:23-6:13
+28,Genesis,Genesis 6:14-7:24
+28,Genesis,Genesis 7:23-8:22
+28,Genesis,Genesis 9
+28,Genesis,Genesis 10:1-11:3
+28,Genesis,Genesis 11:4-32
+28,Genesis,Genesis 12:1-12
+28,Genesis,Genesis 12:13-14:11
+28,Genesis,Genesis 14:12-15:6
+28,Genesis,Genesis 15:6-16:5
+28,Genesis,Genesis 16:6-17:7
+28,Genesis,Genesis 17:8-18:8
+28,Genesis,Genesis 18:9-19:5
+28,Genesis,Genesis 19:6-20:18
+28,Genesis,Genesis 21
+28,Genesis,Genesis 22:1-18
+28,Genesis,Genesis 22:18-23:20
+28,Genesis,Genesis 24:1-32
+28,Genesis,Genesis 24:33-67
+28,Genesis,Genesis 25
+28,Genesis,Genesis 26
+28,Genesis,Genesis 27
+28,Genesis,Genesis 28
+28,Genesis,Genesis 29:1-30
+28,Genesis,Genesis 29:30-31:7
+28,Genesis,Genesis 31:7-55
+28,Genesis,Genesis 32
+28,Genesis,Genesis 33
+28,Genesis,Genesis 34
+28,Genesis,Genesis 35
+28,Genesis,Genesis 36
+28,Genesis,Genesis 37:1-19
+28,Genesis,Genesis 37:20-38:1
+28,Genesis,Genesis 38:1-39:2
+28,Genesis,Genesis 39
+28,Genesis,Genesis 40
+28,Genesis,Genesis 41:1-45
+28,Genesis,Genesis 41:46-42:14
+28,Genesis,Genesis 42:15-43:15
+28,Genesis,Genesis 43:16-44:28
+28,Genesis,Genesis 44:25-45:28
+28,Genesis,Genesis 46
+28,Genesis,Genesis 47
+28,Genesis,Genesis 48
+28,Genesis,Genesis 49:1-15
+28,Genesis,Genesis 49:16-50:26
+#N/A,Guidelines,Guidelines #1
+#N/A,Guidelines,Guidelines #2
+#N/A,Guidelines,Guidelines #3
+#N/A,Guidelines,Guidelines #4
+#N/A,Guidelines,Guidelines #5
+#N/A,Guidelines,Guidelines #6
+#N/A,Guidelines,Guidelines #7
+#N/A,Guidelines,Guidelines #8
+#N/A,Guidelines,Guidelines #9
+#N/A,Guidelines,Guidelines #10
+29,Revelation,Revelation Intro
+29,Revelation,Revelation Intro (cont.)
+29,Revelation,Revelation 1:1
+29,Revelation,Revelation 1:1-4
+29,Revelation,Revelation 1:4-9
+29,Revelation,Revelation 1:10-17
+29,Revelation,Revelation 1:17-20
+29,Revelation,Revelation 2:1-4
+29,Revelation,Revelation 2:4-7
+29,Revelation,Revelation 2:8-12
+29,Revelation,Revelation 2:12-15
+29,Revelation,Revelation 2:16-3:2
+29,Revelation,Revelation 3:3-7
+29,Revelation,Revelation 3:7-13
+29,Revelation,Revelation 3:13-15
+29,Revelation,Revelation 3:16-19
+29,Revelation,Revelation 3:20-4:1
+29,Revelation,Revelation 4:1-6
+29,Revelation,Revelation 4:7-5:1
+29,Revelation,Revelation 5
+29,Revelation,Revelation 6:1
+29,Revelation,Revelation 6:1-8
+29,Revelation,Revelation 6:7-17
+29,Revelation,Revelation 7:1
+29,Revelation,Revelation 7:2-4
+29,Revelation,Revelation 7:5-12
+29,Revelation,Revelation 7:13-17
+29,Revelation,Revelation 8:1
+29,Revelation,Revelation 8:2-6
+29,Revelation,Revelation 8:7-13
+29,Revelation,Revelation 9:1-6
+29,Revelation,Revelation 9:7-20
+29,Revelation,Revelation 9:21-10:1
+29,Revelation,Revelation 10:2-7
+29,Revelation,Revelation 10:8-11:2
+29,Revelation,Revelation 11:3-12
+29,Revelation,Revelation 11:13-12:1
+29,Revelation,Revelation 12:1-5
+29,Revelation,Revelation 12:6-9
+29,Revelation,Revelation 12:10-17
+29,Revelation,Revelation 13:1
+29,Revelation,Revelation 13:2-8
+29,Revelation,Revelation 13:9-18
+29,Revelation,Revelation 14:1-4
+29,Revelation,Revelation 14:5-8
+29,Revelation,Revelation 14:9-20
+29,Revelation,Revelation 14:19-15:1
+29,Revelation,Revelation 15:2-7
+29,Revelation,Revelation 15:8-16:8
+29,Revelation,Revelation 16:9-17
+29,Revelation,Revelation 16:18-17:5
+29,Revelation,Revelation 17:6-18
+29,Revelation,Revelation 18:1-8
+29,Revelation,Revelation 18:9-24
+29,Revelation,Revelation 19:1
+29,Revelation,Revelation 19:2-11
+29,Revelation,Revelation 19:11-21
+29,Revelation,Revelation 20:1-6
+29,Revelation,Revelation 20:4-9
+29,Revelation,Revelation 20:9-13
+29,Revelation,Revelation 20:14-21:2
+29,Revelation,Revelation 21:2-5
+29,Revelation,Revelation 21:6-18
+29,Revelation,Revelation 21:19-21
+29,Revelation,Revelation 21:22-22:1
+29,Revelation,Revelation 22:2-21
+30,Malachi,Malachi Intro-1:3
+30,Malachi,Malachi 1:2-8
+30,Malachi,Malachi 1:8-13
+30,Malachi,Malachi 1:13-2:2
+30,Malachi,Malachi 2:1-9
+30,Malachi,Malachi 2:10-15
+30,Malachi,Malachi 2:10-15 (cont.)
+30,Malachi,Malachi 2:10-15 (cont.)
+30,Malachi,Malachi 2:10-17
+30,Malachi,Malachi 2:17-3:4
+30,Malachi,Malachi 3:1-7
+30,Malachi,Malachi 3:8
+30,Malachi,Malachi 3:9-16
+30,Malachi,Malachi 3:16-4:6
+30,Malachi,Malachi 4:2-6
+31,Zechariah,Zechariah 1:1-6
+31,Zechariah,Zechariah 1:7-11
+31,Zechariah,Zechariah 1:11-21
+31,Zechariah,Zechariah 2:1-6
+31,Zechariah,Zechariah 2:5-13
+31,Zechariah,"Zechariah 3:1, 2"
+31,Zechariah,Zechariah 3:3-10
+31,Zechariah,Zechariah 4:1-3
+31,Zechariah,Zechariah 4:4-14
+31,Zechariah,Zechariah 5:1-4
+31,Zechariah,Zechariah 5:5-11
+31,Zechariah,Zechariah 6:1-3
+31,Zechariah,Zechariah 6:4-12
+31,Zechariah,Zechariah 6:9-15
+31,Zechariah,Zechariah 6:15-7:6
+31,Zechariah,Zechariah 7:4-7
+31,Zechariah,Zechariah 7:7-11
+31,Zechariah,Zechariah 7:11-8:3
+31,Zechariah,Zechariah 8:4-19
+31,Zechariah,Zechariah 8:15-9:4
+31,Zechariah,Zechariah 9:4-9
+31,Zechariah,Zechariah 9:9
+31,Zechariah,Zechariah 9:9-17
+31,Zechariah,Zechariah 10:1-3
+31,Zechariah,Zechariah 10:3-6
+31,Zechariah,Zechariah 10:6-11:6
+31,Zechariah,Zechariah 11:7-17
+31,Zechariah,Zechariah 11:15-12:3
+31,Zechariah,Zechariah 12:1-5
+31,Zechariah,Zechariah 12:6-14
+31,Zechariah,Zechariah 13:1-3
+31,Zechariah,Zechariah 13:2-9
+31,Zechariah,Zechariah 14:1-4
+31,Zechariah,Zechariah 14:5-21
+32,Haggai,Haggai Intro
+32,Haggai,Haggai 1:1-4
+32,Haggai,Haggai 1:2-8
+32,Haggai,Haggai 1:9-15
+32,Haggai,Haggai 1:12-2:3
+32,Haggai,"Haggai 2:3, 4"
+32,Haggai,Haggai 2:5-9
+32,Haggai,Haggai 2:10-13
+32,Haggai,Haggai 2:14-23
+33,Jude,Jude Intro
+33,Jude,Jude 1-3
+33,Jude,"Jude 3, 4"
+33,Jude,Jude 4-6
+33,Jude,"Jude 6, 7"
+33,Jude,"Jude 8, 9"
+33,Jude,Jude 9-11
+33,Jude,Jude 11-13
+33,Jude,Jude 13-16
+33,Jude,Jude 16-19
+33,Jude,"Jude 19, 20"
+33,Jude,Jude 20-25
+34,Zephaniah,Zephaniah Intro-1:1
+34,Zephaniah,Zephaniah 1:2-5
+34,Zephaniah,Zephaniah 1:4-12
+34,Zephaniah,Zephaniah 1:12-2:2
+34,Zephaniah,Zephaniah 2:1-15
+34,Zephaniah,Zephaniah 3:1-8
+34,Zephaniah,Zephaniah 3:9-20
+35,Habakkuk,Habakkuk Intro-1:1
+35,Habakkuk,Habakkuk 1:2-9
+35,Habakkuk,Habakkuk 1:5-12
+35,Habakkuk,Habakkuk 1:12-17
+35,Habakkuk,Habakkuk 1:12-2:3
+35,Habakkuk,Habakkuk 2:4
+35,Habakkuk,Habakkuk 2:4-12
+35,Habakkuk,Habakkuk 2:12-20
+35,Habakkuk,Habakkuk 3:1-6
+35,Habakkuk,Habakkuk 3:7-19
+36,Nahum,Nahum Intro-1:1
+36,Nahum,Nahum 1:1-3
+36,Nahum,Nahum 1:3-10
+36,Nahum,Nahum 1:11-15
+36,Nahum,Nahum 1:15-2:4
+36,Nahum,Nahum 2:5-3:1
+36,Nahum,Nahum 3:1-6
+36,Nahum,Nahum 3:7-19
+37,Micah,"Micah 1:1, 2"
+37,Micah,Micah 1:2-7
+37,Micah,Micah 1:7-13
+37,Micah,Micah 1:13-2:1
+37,Micah,Micah 2:1-11
+37,Micah,Micah 2:12-3:4
+37,Micah,Micah 3:5-12
+37,Micah,Micah 4:1-5
+37,Micah,Micah 4:6-13
+37,Micah,"Micah 5:1, 2"
+37,Micah,Micah 5:2-15
+37,Micah,Micah 6:1-5
+37,Micah,Micah 6:6-8
+37,Micah,Micah 6:8-15
+37,Micah,Micah 6:16-7:5
+37,Micah,Micah 7:5-15
+37,Micah,Micah 7:15-20
+38,1 John,1 John Intro-1:1
+38,1 John,1 John 1:1-4
+38,1 John,1 John 1:5-7
+38,1 John,1 John 1:7-10
+38,1 John,1 John 2:1-3
+38,1 John,1 John 2:3-8
+38,1 John,1 John 2:8-16
+38,1 John,1 John 2:12-16
+38,1 John,1 John 2:16-19
+38,1 John,1 John 2:19-22
+38,1 John,1 John 2:23-29
+38,1 John,1 John 2
+38,1 John,1 John 2:29-3:6
+38,1 John,1 John 3:1-9
+38,1 John,1 John 3:8-12
+38,1 John,1 John 3:10-17
+38,1 John,1 John 3:17-4:1
+38,1 John,1 John 4:1-3
+38,1 John,1 John 4:4-9
+38,1 John,1 John 4:7-11
+38,1 John,1 John 4:12-21
+38,1 John,1 John 5:1-4
+38,1 John,1 John 5:4-6
+38,1 John,1 John 5:6-12
+38,1 John,1 John 5:13-21
+39,2 John,2 John Intro
+39,2 John,2 John 1
+39,2 John,2 John 1-5
+39,2 John,2 John 6-8
+39,2 John,2 John 9-13
+40,3 John,3 John 1-3
+40,3 John,3 John 3-7
+40,3 John,3 John 7-10
+40,3 John,3 John 10-14
+41,Jonah,Jonah Intro
+41,Jonah,Jonah Intro (cont.)
+41,Jonah,Jonah 1:1-3
+41,Jonah,Jonah 1:4-10
+41,Jonah,Jonah 1:11-2:2
+41,Jonah,Jonah 2:1-6
+41,Jonah,Jonah 2:7-3:2
+41,Jonah,"Jonah 3:1, 2"
+41,Jonah,Jonah 3:2-10
+41,Jonah,"Jonah 3:9, 10"
+41,Jonah,Jonah 4
+42,Obadiah,Obadiah Intro
+42,Obadiah,Obadiah 1-4
+42,Obadiah,Obadiah 4-9
+42,Obadiah,Obadiah 10-14
+42,Obadiah,Obadiah 15-21
+43,Amos,"Amos 1:1, 7:10-12"
+43,Amos,"Amos 1:1-3, 7:13-16"
+43,Amos,Amos 1:4-15
+43,Amos,Amos 2:1-9
+43,Amos,Amos 2:9-3:2
+43,Amos,Amos 3:1-6
+43,Amos,Amos 3:7-4:1
+43,Amos,Amos 4:1-10
+43,Amos,Amos 4:10-5:5
+43,Amos,Amos 5:4-17
+43,Amos,Amos 5:18-27
+43,Amos,Amos 6:1-6
+43,Amos,Amos 6:7-7:15
+43,Amos,Amos 7:16-8:6
+43,Amos,Amos 8:7-9:1
+43,Amos,Amos 9:2-15
+44,1 Peter,1 Peter Intro-1:1
+44,1 Peter,1 Peter 1:2
+44,1 Peter,1 Peter 1:3-6
+44,1 Peter,1 Peter 1:6-11
+44,1 Peter,1 Peter 1:10-16
+44,1 Peter,1 Peter 1:17-25
+44,1 Peter,1 Peter 2:1-5
+44,1 Peter,1 Peter 2:5-12
+44,1 Peter,1 Peter 2:11-3:1
+44,1 Peter,1 Peter 3:1-9
+44,1 Peter,1 Peter 3:8-22
+44,1 Peter,1 Peter 4:1-4
+44,1 Peter,1 Peter 4:1-12
+44,1 Peter,1 Peter 4:12-19
+44,1 Peter,1 Peter 5
+45,2 Peter,2 Peter Intro-1:1
+45,2 Peter,2 Peter 1:1-4
+45,2 Peter,2 Peter 1:4-6
+45,2 Peter,2 Peter 1:7-14
+45,2 Peter,2 Peter 1:13-19
+45,2 Peter,2 Peter 1:19-2:1
+45,2 Peter,2 Peter 2:1-3
+45,2 Peter,2 Peter 2:3-6
+45,2 Peter,2 Peter 2:5-9
+45,2 Peter,2 Peter 2:9-20
+45,2 Peter,"2 Peter 2:21, 22"
+45,2 Peter,"2 Peter 3:1-7, 13"
+45,2 Peter,2 Peter 3:5-10
+45,2 Peter,2 Peter 3:8-18
+46,Joel,Joel Intro-1:3
+46,Joel,Joel 1:4-13
+46,Joel,Joel 1:13-20
+46,Joel,Joel 2:1-5
+46,Joel,Joel 2:4-14
+46,Joel,Joel 2:15-25
+46,Joel,Joel 2:26-3:1
+46,Joel,Joel 3
+47,James,James 1:1-3
+47,James,James 1:3-11
+47,James,James 1:3-13
+47,James,James 1:13-15
+47,James,James 1:14-19
+47,James,James 1:19-22
+47,James,James 1:22-25
+47,James,James 1:25-2:2
+47,James,James 2:1-13
+47,James,James 2:14-26
+47,James,James 3:1-4
+47,James,James 3:5-18
+47,James,James 3:14-4:4
+47,James,James 4:5-17
+47,James,James 5:1-6
+47,James,James 5:5-20
+48,Hosea,Hosea Intro
+48,Hosea,Hosea Intro
+48,Hosea,Hosea 1:1-2:1
+48,Hosea,Hosea 2:1-16
+48,Hosea,Hosea 2:15-3:4
+48,Hosea,Hosea 3:4-4:2
+48,Hosea,Hosea 3:1-4:6
+48,Hosea,Hosea 4:6-19
+48,Hosea,Hosea 5:1-14
+48,Hosea,Hosea 5:11-6:11
+48,Hosea,Hosea 7
+48,Hosea,Hosea 8:1-9:6
+48,Hosea,Hosea 9:3-10:1
+48,Hosea,Hosea 10:1-11:1
+48,Hosea,Hosea 11-14
+49,Hebrews,Hebrews Intro
+49,Hebrews,Hebrews 1:1-2
+49,Hebrews,Hebrews 1:2-3
+49,Hebrews,Hebrews 1:3-7
+49,Hebrews,Hebrews 1:8-2:4
+49,Hebrews,Hebrews 2:5-10
+49,Hebrews,Hebrews 2:10-17
+49,Hebrews,Hebrews 2:9-18
+49,Hebrews,Hebrews 3:1-6
+49,Hebrews,Hebrews 3:6-10
+49,Hebrews,Hebrews 3:10-15
+49,Hebrews,Hebrews 3:16-4:8
+49,Hebrews,Hebrews 4:9-13
+49,Hebrews,Hebrews 4:14-16
+49,Hebrews,Hebrews 5:1-7
+49,Hebrews,Hebrews 5:7-6:1
+49,Hebrews,Hebrews 6:1-9
+49,Hebrews,Hebrews 6:7-20
+49,Hebrews,Hebrews 6:17-7:2
+49,Hebrews,Hebrews 7:2-19
+49,Hebrews,Hebrews 7:20-8:2
+49,Hebrews,Hebrews 7:25-8:6
+49,Hebrews,Hebrews 8:6-13
+49,Hebrews,Hebrews 9:1-7
+49,Hebrews,Hebrews 9:2-24
+49,Hebrews,Hebrews 9:6-27
+49,Hebrews,Hebrews 9:25-10:24
+49,Hebrews,Hebrews 10:9-36
+49,Hebrews,Hebrews 10:26-39
+49,Hebrews,Hebrews 11:1-3
+49,Hebrews,Hebrews 11:3-6
+49,Hebrews,Hebrews 11:5-7
+49,Hebrews,Hebrews 11:8-19
+49,Hebrews,Hebrews 11:20-30
+49,Hebrews,Hebrews 11:31-34
+49,Hebrews,Hebrews 11:35-40
+49,Hebrews,Hebrews 12:1-2
+49,Hebrews,Hebrews 12:3-11
+49,Hebrews,Hebrews 12:9-16
+49,Hebrews,Hebrews 12:15-24
+49,Hebrews,Hebrews 12:25-13:8
+49,Hebrews,Hebrews 13:3-16
+49,Hebrews,Hebrews 13:10-25
+50,Daniel,Daniel Intro-1:1
+50,Daniel,Daniel 1:2-13
+50,Daniel,Daniel 1:14-2:1
+50,Daniel,Daniel 2:2-23
+50,Daniel,Daniel 2:24-39
+50,Daniel,Daniel 2:40-44
+50,Daniel,Daniel 2:44-3:2
+50,Daniel,Daniel 3:3-16
+50,Daniel,Daniel 3:17-30
+50,Daniel,"Daniel 4:1-10, 17"
+50,Daniel,Daniel 4:10-22
+50,Daniel,Daniel 4:22-37
+50,Daniel,Daniel 5:1-19
+50,Daniel,Daniel 5:20-31
+50,Daniel,Daniel 6:1-23
+50,Daniel,Daniel 7:1-4
+50,Daniel,Daniel 7:1-6
+50,Daniel,Daniel 7:7-13
+50,Daniel,Daniel 7:13-23
+50,Daniel,Daniel 7:24-28
+50,Daniel,Daniel 8:1-13
+50,Daniel,Daniel 8:13-27
+50,Daniel,Daniel 9:1-19
+50,Daniel,Daniel 9:20-27
+50,Daniel,Daniel 10:1-10
+50,Daniel,Daniel 10:10-21
+50,Daniel,Daniel 11:1-14
+50,Daniel,Daniel 11:15-36
+50,Daniel,Daniel 11:37-45
+50,Daniel,Daniel 12
+51,Philemon,Philemon
+52,Titus,Titus Intro
+52,Titus,Titus 1:1-7
+52,Titus,Titus 1:8-2:1
+52,Titus,Titus 2:1-15
+52,Titus,Titus 3
+53,Ezekiel,Ezekiel 1:1-4
+53,Ezekiel,Ezekiel 1:4-28
+53,Ezekiel,Ezekiel 2:1-3:19
+53,Ezekiel,Ezekiel 3:20-5:17
+53,Ezekiel,Ezekiel 5:17-7:2
+53,Ezekiel,Ezekiel 7:1-8:4
+53,Ezekiel,Ezekiel 8:2-9:11
+53,Ezekiel,Ezekiel 10-11
+53,Ezekiel,Ezekiel 12-13
+53,Ezekiel,Ezekiel 14:1-16:14
+53,Ezekiel,Ezekiel 16:15-18:32
+53,Ezekiel,Ezekiel 18:32-20:49
+53,Ezekiel,Ezekiel 21-22
+53,Ezekiel,Ezekiel 23-24
+53,Ezekiel,Ezekiel 25-26
+53,Ezekiel,Ezekiel 27:1-28:25
+53,Ezekiel,Ezekiel 28:25-30:26
+53,Ezekiel,Ezekiel 31-32
+53,Ezekiel,Ezekiel 33
+53,Ezekiel,Ezekiel 34-36
+53,Ezekiel,Ezekiel 36:35-37:28
+53,Ezekiel,Ezekiel 38-39
+53,Ezekiel,Ezekiel 38-39
+53,Ezekiel,Ezekiel 38-40
+53,Ezekiel,Ezekiel 40-48
+54,1 Timothy,1 Timothy Intro
+54,1 Timothy,1 Timothy 1:1-2
+54,1 Timothy,1 Timothy 1:3-7
+54,1 Timothy,1 Timothy 1:8-18
+54,1 Timothy,1 Timothy 1:18-2:5
+54,1 Timothy,1 Timothy 2:5-15
+54,1 Timothy,1 Timothy 3:1-8
+54,1 Timothy,1 Timothy 3:8-16
+54,1 Timothy,1 Timothy 3:16-4:6
+54,1 Timothy,1 Timothy 4:6-16
+54,1 Timothy,1 Timothy 5:1-19
+54,1 Timothy,1 Timothy 5:19-6:21
+55,2 Timothy,2 Timothy 1:1-6
+55,2 Timothy,2 Timothy 1:6-18
+55,2 Timothy,2 Timothy 2:1-13
+55,2 Timothy,2 Timothy 2:11-26
+55,2 Timothy,2 Timothy 3:1-12
+55,2 Timothy,2 Timothy 3:8-17
+55,2 Timothy,2 Timothy 3:16-4:8
+55,2 Timothy,2 Timothy 4:6-22
+56,Lamentations,Lamentations 1:1-12
+56,Lamentations,Lamentations 1:12-3:4
+56,Lamentations,Lamentations 3:4-5:22
+57,Jeremiah,Jeremiah Intro-1:3
+57,Jeremiah,Jeremiah 1:4-19
+57,Jeremiah,Jeremiah 2
+57,Jeremiah,Jeremiah 3:1-25
+57,Jeremiah,Jeremiah 3:10-6:30
+57,Jeremiah,Jeremiah 7:1-9:24
+57,Jeremiah,Jeremiah 9-11
+57,Jeremiah,Jeremiah 11:6-14:13
+57,Jeremiah,Jeremiah 14:4-17:27
+57,Jeremiah,Jeremiah 18-19
+57,Jeremiah,Jeremiah 20-22
+57,Jeremiah,Jeremiah 22:13-25:14
+57,Jeremiah,Jeremiah 25:15-28:17
+57,Jeremiah,Jeremiah 29-30
+57,Jeremiah,Jeremiah 31-32
+57,Jeremiah,Jeremiah 33-36
+57,Jeremiah,Jeremiah 37-39
+57,Jeremiah,Jeremiah 39:7-44:30
+57,Jeremiah,Jeremiah 45:1-49:6
+57,Jeremiah,Jeremiah 49:7-52:34
+58,1 Thessalonians,1 Thessalonians Intro-1:2
+58,1 Thessalonians,1 Thessalonians 1:2-3
+58,1 Thessalonians,1 Thessalonians 1:4-6
+58,1 Thessalonians,1 Thessalonians 1:5-10
+58,1 Thessalonians,1 Thessalonians 2:1-7
+58,1 Thessalonians,1 Thessalonians 2:7-13
+58,1 Thessalonians,1 Thessalonians 2:14-20
+58,1 Thessalonians,1 Thessalonians 3:1-13
+58,1 Thessalonians,1 Thessalonians 3:13-4:8
+58,1 Thessalonians,1 Thessalonians 4:3-12
+58,1 Thessalonians,1 Thessalonians 4:13
+58,1 Thessalonians,1 Thessalonians 4:13-18
+58,1 Thessalonians,1 Thessalonians 5:1-11
+58,1 Thessalonians,1 Thessalonians 5:11-28
+59,2 Thessalonians,2 Thessalonians 1:1-3
+59,2 Thessalonians,2 Thessalonians 1:3-12
+59,2 Thessalonians,2 Thessalonians 1:10-2:9
+59,2 Thessalonians,2 Thessalonians 2:7-17
+59,2 Thessalonians,2 Thessalonians 3:1-7
+59,2 Thessalonians,2 Thessalonians 3:8-18
+60,Isaiah,Isaiah Intro
+60,Isaiah,Isaiah 1:1-3
+60,Isaiah,Isaiah 1:4-18
+60,Isaiah,Isaiah 1:19-2:22
+60,Isaiah,Isaiah 3
+60,Isaiah,Isaiah 4:1-5:11
+60,Isaiah,Isaiah 5:8-24
+60,Isaiah,Isaiah 5:25-6:2
+60,Isaiah,Isaiah 6:3-13
+60,Isaiah,Isaiah 7:12-14
+60,Isaiah,Isaiah 7
+60,Isaiah,Isaiah 8
+60,Isaiah,Isaiah 9
+60,Isaiah,Isaiah 10
+60,Isaiah,Isaiah 11
+60,Isaiah,Isaiah 12:1-13:19
+60,Isaiah,Isaiah 13:19-14:14
+60,Isaiah,Isaiah 14:15-16:14
+60,Isaiah,Isaiah 16:6-18:7
+60,Isaiah,Isaiah 19-20
+60,Isaiah,Isaiah 21-22
+60,Isaiah,Isaiah 23:1-24:15
+60,Isaiah,Isaiah 24:16-26:18
+60,Isaiah,Isaiah 26:19-28:5
+60,Isaiah,Isaiah 28:5-29:8
+60,Isaiah,Isaiah 29:5-31:9
+60,Isaiah,Isaiah 32-33
+60,Isaiah,Isaiah 34-35
+60,Isaiah,Isaiah 36-37
+60,Isaiah,Isaiah 38-39
+60,Isaiah,Isaiah 40
+60,Isaiah,Isaiah 41-42
+60,Isaiah,Isaiah 43-44
+60,Isaiah,Isaiah 45-46
+60,Isaiah,Isaiah 47-48
+60,Isaiah,Isaiah 49:1-50:4
+60,Isaiah,Isaiah 50-51
+60,Isaiah,Isaiah 52:1-53:1
+60,Isaiah,Isaiah 53:1-6
+60,Isaiah,Isaiah 53:5-54:17
+60,Isaiah,Isaiah 55
+60,Isaiah,Isaiah 56:1-57:5
+60,Isaiah,Isaiah 57:5-58:3
+60,Isaiah,Isaiah 58:4-59:21
+60,Isaiah,Isaiah 60:1-61:2
+60,Isaiah,Isaiah 61:2-62:12
+60,Isaiah,Isaiah 63
+60,Isaiah,Isaiah 64:1-65:2
+60,Isaiah,Isaiah 65:3-66:24
+61,Colossians,Colossians 1:1-2
+61,Colossians,Colossians 1:2-14
+61,Colossians,Colossians 1:15-18
+61,Colossians,Colossians 1:18-24
+61,Colossians,Colossians 1:24-29
+61,Colossians,Colossians 2:1-8
+61,Colossians,Colossians 2:8-23
+61,Colossians,Colossians 3:1-5
+61,Colossians,Colossians 3:6-12
+61,Colossians,Colossians 3:12-25
+61,Colossians,Colossians 3:22-4:18
+62,Song of Solomon,Song of Solomon Intro
+62,Song of Solomon,Song of Solomon Intro (cont.)
+62,Song of Solomon,Song of Solomon 1:1-4
+62,Song of Solomon,Song of Solomon 1:4-8
+62,Song of Solomon,Song of Solomon 1:7-13
+62,Song of Solomon,Song of Solomon 1:14-17
+62,Song of Solomon,Song of Solomon 2:1-7
+62,Song of Solomon,Song of Solomon 2:4-11
+62,Song of Solomon,Song of Solomon 2:12-15
+62,Song of Solomon,Song of Solomon 2:16-3:11
+62,Song of Solomon,Song of Solomon 4:1-5:5
+62,Song of Solomon,Song of Solomon 5:6-16
+62,Song of Solomon,Song of Solomon 5:10-8:14
+63,Ecclesiastes,Ecclesiastes 1:1-5
+63,Ecclesiastes,Ecclesiastes 1:5-14
+63,Ecclesiastes,Ecclesiastes 1:15-2:10
+63,Ecclesiastes,Ecclesiastes 2:11-3:1
+63,Ecclesiastes,Ecclesiastes 3:1-4:9
+63,Ecclesiastes,Ecclesiastes 4:9-5:6
+63,Ecclesiastes,Ecclesiastes 5:7-6:12
+63,Ecclesiastes,Ecclesiastes 7-8
+63,Ecclesiastes,Ecclesiastes 9:1-14
+63,Ecclesiastes,Ecclesiastes 9:10-10:10
+63,Ecclesiastes,Ecclesiastes 10:11-11:10
+63,Ecclesiastes,Ecclesiastes 12
+64,Philippians,Philippians Intro-1:1
+64,Philippians,Philippians 1:2-6
+64,Philippians,Philippians 1:6-9
+64,Philippians,Philippians 1:9-13
+64,Philippians,Philippians 1:14-30
+64,Philippians,Philippians 2:1-6
+64,Philippians,Philippians 2:5-8
+64,Philippians,Philippians 2:8-11
+64,Philippians,Philippians 2:12-26
+64,Philippians,Philippians 2:25-3:1
+64,Philippians,Philippians 3:2-6
+64,Philippians,Philippians 3:7-14
+64,Philippians,Philippians 3:15-20
+64,Philippians,Philippians 3:20-4:3
+64,Philippians,Philippians 4:4-6
+64,Philippians,Philippians 4:6-7
+64,Philippians,Philippians 4:8-13
+64,Philippians,Philippians 4:13-23
+65,Proverbs,Proverbs Intro
+65,Proverbs,Proverbs 1:1-5
+65,Proverbs,Proverbs 1:5-33
+65,Proverbs,Proverbs 2:1-22
+65,Proverbs,Proverbs 2:16-3:22
+65,Proverbs,Proverbs 3:19-4:9
+65,Proverbs,Proverbs 4:10-5:14
+65,Proverbs,Proverbs 5:15-6:15
+65,Proverbs,Proverbs 6:16-24
+65,Proverbs,Proverbs 6:24-8:9
+65,Proverbs,Proverbs 8:8-36
+65,Proverbs,Proverbs 9:1-10:4
+65,Proverbs,Proverbs 10:3-11:1
+65,Proverbs,Proverbs 11:1-25
+65,Proverbs,Proverbs 11:26-12:22
+65,Proverbs,Proverbs 12:22-13:25
+65,Proverbs,Proverbs 14
+65,Proverbs,Proverbs 15
+65,Proverbs,Proverbs 16
+65,Proverbs,Proverbs 17
+65,Proverbs,Proverbs 18
+65,Proverbs,Proverbs 19
+65,Proverbs,Proverbs 20
+65,Proverbs,Proverbs 21:1-22
+65,Proverbs,Proverbs 21:22-22:27
+65,Proverbs,Proverbs 22:28-23:35
+65,Proverbs,Proverbs 24
+65,Proverbs,Proverbs 25:1-25
+65,Proverbs,Proverbs 25:23-26:22
+65,Proverbs,Proverbs 26:23-27:27
+65,Proverbs,Proverbs 28:1-29:4
+65,Proverbs,Proverbs 29:5-30:19
+65,Proverbs,Proverbs 30:20-31:31
+66,Ephesians,Ephesians Intro
+66,Ephesians,Ephesians 1:1-2
+66,Ephesians,Ephesians 1:2-4
+66,Ephesians,Ephesians 1:3-4
+66,Ephesians,Ephesians 1:5-6
+66,Ephesians,Ephesians 1:7-9
+66,Ephesians,Ephesians 1:8-11
+66,Ephesians,Ephesians 1:12-17
+66,Ephesians,Ephesians 1:17-23
+66,Ephesians,Ephesians 2:1-3
+66,Ephesians,Ephesians 2:1-7
+66,Ephesians,Ephesians 2:7-13
+66,Ephesians,Ephesians 2:14-3 Intro
+66,Ephesians,Ephesians 3:1-13
+66,Ephesians,Ephesians 3:14-21
+66,Ephesians,Ephesians 4:1-6
+66,Ephesians,Ephesians 4:6-13
+66,Ephesians,Ephesians 4:14-24
+66,Ephesians,Ephesians 4:22-5:2
+66,Ephesians,Ephesians 4:30-5:13
+66,Ephesians,Ephesians 5:14-20
+66,Ephesians,Ephesians 5:20-31
+66,Ephesians,Ephesians 5:30-6:1
+66,Ephesians,Ephesians 6:1-9
+66,Ephesians,Ephesians 6:5-9
+66,Ephesians,Ephesians 6:10-12
+66,Ephesians,Ephesians 6:13-15
+66,Ephesians,Ephesians 6:16-24
+1,Psalms,Psalms Intro-1:1
+1,Psalms,Psalm 1
+1,Psalms,Psalm 2
+1,Psalms,Psalms 3-4
+1,Psalms,Psalms 5-7
+1,Psalms,Psalm 8
+1,Psalms,Psalms 9:1-11:1
+1,Psalms,Psalms 10:4-12:8
+1,Psalms,Psalms 13-15
+1,Psalms,Psalms 16-17
+1,Psalms,Psalms 17-18
+1,Psalms,Psalms 19-20
+1,Psalms,Psalms 21-22
+1,Psalms,Psalm 22
+1,Psalms,Psalms 23-24
+1,Psalms,Psalms 25:1-27:1
+1,Psalms,Psalms 27-28
+1,Psalms,Psalms 29-30
+1,Psalms,Psalms 30:2-32:1
+1,Psalms,Psalms 32-33
+1,Psalms,Psalms 34-35
+1,Psalms,Psalms 36-38
+1,Psalms,Psalms 39-41
+1,Psalms,Psalms 42:1-44:4
+1,Psalms,Psalms 44:4-45:17
+1,Psalms,Psalms 46-48
+1,Psalms,Psalms 49-50
+1,Psalms,Psalm 51
+1,Psalms,Psalms 52-55
+1,Psalms,Psalms 56-60
+1,Psalms,Psalms 61-66
+1,Psalms,Psalms 67-68
+1,Psalms,Psalms 69-72
+1,Psalms,Psalms 73-75
+1,Psalms,Psalms 76-78
+1,Psalms,Psalms 79-81
+1,Psalms,Psalms 82-84
+1,Psalms,Psalms 85-88
+1,Psalms,Psalms 89-90
+1,Psalms,Psalms 91-99
+1,Psalms,Psalms 100-102
+1,Psalms,Psalms 103-106
+1,Psalms,Psalms 107:1-110:1
+1,Psalms,Psalms 109-113
+1,Psalms,Psalms 114-116
+1,Psalms,Psalms 117-118
+1,Psalms,Psalm 119
+1,Psalms,Psalms 120-123
+1,Psalms,Psalms 122-131
+1,Psalms,Psalms 132-136
+1,Psalms,Psalms 137-138
+1,Psalms,Psalms 138-139
+1,Psalms,Psalms 140-143
+1,Psalms,Psalms 144-150
+2,Galatians,Galatians Intro-1:1
+2,Galatians,Galatians 1:2-10
+2,Galatians,Galatians 1:11-24
+2,Galatians,Galatians 2:1-14
+2,Galatians,Galatians 2:14-20
+2,Galatians,Galatians 2:19-3:5
+2,Galatians,Galatians 3:4-7
+2,Galatians,Galatians 3:8-17
+2,Galatians,Galatians 3:13-22
+2,Galatians,Galatians 3:19-29
+2,Galatians,Galatians 4:1-7
+2,Galatians,Galatians 4:6-24
+2,Galatians,Galatians 4:9-31
+2,Galatians,Galatians 5:1-4
+2,Galatians,Galatians 5:5-16
+2,Galatians,Galatians 5:16-21
+2,Galatians,Galatians 5:22-26
+2,Galatians,Galatians 6:1-5
+2,Galatians,Galatians 6:6-11
+2,Galatians,Galatians 6:11-18
+3,Job,Job 1:1-5
+3,Job,Job 1:6-2:3
+3,Job,Job 2:4-3:12
+3,Job,Job 3:13-26
+3,Job,Job 4:1-5:7
+3,Job,Job 5:7-6:15
+3,Job,Job 6:15-8:22
+3,Job,Job 9-10
+3,Job,Job 11:1-13:4
+3,Job,Job 13:3-15:35
+3,Job,Job 16:1-18:2
+3,Job,Job 18:2-20:3
+3,Job,Job 20:1-22:2
+3,Job,Job 22-23
+3,Job,Job 24:1-26:7
+3,Job,Job 26:7-28:28
+3,Job,Job 29-30
+3,Job,Job 31:1-32:3
+3,Job,Job 32-33
+3,Job,Job 32-33
+3,Job,Job 34-35
+3,Job,Job 36:1-38:7
+3,Job,Job 38:8-42:17
+4,Esther,Esther 1:1-3
+4,Esther,Esther 1:4-2:3
+4,Esther,Esther 2:4-15
+4,Esther,Esther 2:16-3:6
+4,Esther,Esther 3:7-4:2
+4,Esther,Esther 4:3-5:4
+4,Esther,Esther 5:5-6:8
+4,Esther,Esther 6:7-7:10
+4,Esther,Esther 8
+4,Esther,Esther 9-10
+7,1 Corinthians,1 Corinthians 1:1-8
+7,1 Corinthians,1 Corinthians 1:9-12
+7,1 Corinthians,1 Corinthians 1:13-31
+7,1 Corinthians,1 Corinthians 2
+7,1 Corinthians,1 Corinthians 3
+7,1 Corinthians,1 Corinthians 4
+7,1 Corinthians,1 Corinthians 5
+7,1 Corinthians,1 Corinthians 6
+7,1 Corinthians,1 Corinthians 7:1-21
+7,1 Corinthians,1 Corinthians 7:20-40
+7,1 Corinthians,1 Corinthians 8
+7,1 Corinthians,1 Corinthians 9
+7,1 Corinthians,1 Corinthians 10:1-22
+7,1 Corinthians,1 Corinthians 10:23-11:4
+7,1 Corinthians,1 Corinthians 11:4-16
+7,1 Corinthians,1 Corinthians 11:17-34
+7,1 Corinthians,1 Corinthians 12:1-7
+7,1 Corinthians,1 Corinthians 12:8-31
+7,1 Corinthians,1 Corinthians 12:31-14:2
+7,1 Corinthians,1 Corinthians 14
+7,1 Corinthians,1 Corinthians 15:1-8
+7,1 Corinthians,1 Corinthians 15:1-44
+7,1 Corinthians,1 Corinthians 15:35-58
+7,1 Corinthians,1 Corinthians 16
+8,2 Corinthians,2 Corinthians 1:1-3
+8,2 Corinthians,2 Corinthians 1:4-20
+8,2 Corinthians,2 Corinthians 1:10-2:13
+8,2 Corinthians,2 Corinthians 2:14-3:14
+8,2 Corinthians,2 Corinthians 3:11-18
+8,2 Corinthians,2 Corinthians 4:1-6
+8,2 Corinthians,2 Corinthians 4:3-18
+8,2 Corinthians,2 Corinthians 5:1-10
+8,2 Corinthians,2 Corinthians 5:10-15
+8,2 Corinthians,2 Corinthians 5:16-21
+8,2 Corinthians,2 Corinthians 6:1-11
+8,2 Corinthians,2 Corinthians 6:11-7:1
+8,2 Corinthians,2 Corinthians 7
+8,2 Corinthians,2 Corinthians 8:1-7
+8,2 Corinthians,2 Corinthians 8:8-9:5
+8,2 Corinthians,2 Corinthians 9:6-10:4
+8,2 Corinthians,2 Corinthians 10:1-11:5
+8,2 Corinthians,2 Corinthians 11
+8,2 Corinthians,2 Corinthians 12:1-16
+8,2 Corinthians,2 Corinthians 12:14-13:14
+5,Nehemiah,Nehemiah 1:1-6
+5,Nehemiah,Nehemiah 1:7-2:16
+5,Nehemiah,Nehemiah 2:17-3:3
+5,Nehemiah,Nehemiah 3:4-27
+5,Nehemiah,Nehemiah 3:28-32
+5,Nehemiah,Nehemiah 4
+5,Nehemiah,Nehemiah 5
+5,Nehemiah,Nehemiah 6
+5,Nehemiah,Nehemiah 7
+5,Nehemiah,Nehemiah 8
+5,Nehemiah,Nehemiah 9
+5,Nehemiah,Nehemiah 10-13
+6,Ezra,Ezra 1:1-2
+6,Ezra,Ezra 1:2-2:70
+6,Ezra,Ezra 3-4
+6,Ezra,Ezra 5-6
+6,Ezra,Ezra 7-8
+6,Ezra,Ezra 9
+6,Ezra,Ezra 10
+9,1 Chronicles,1 Chronicles 1:1-9:1
+9,1 Chronicles,1 Chronicles 9-10
+9,1 Chronicles,1 Chronicles 11-12
+9,1 Chronicles,1 Chronicles 13:1-15:2
+9,1 Chronicles,1 Chronicles 15:1-16:7
+9,1 Chronicles,1 Chronicles 16:8-17:27
+9,1 Chronicles,1 Chronicles 18-19
+9,1 Chronicles,1 Chronicles 20:1-21:13
+9,1 Chronicles,1 Chronicles 21:14-22:9
+9,1 Chronicles,1 Chronicles 22:10-23:32
+9,1 Chronicles,1 Chronicles 24:1-28:11
+9,1 Chronicles,1 Chronicles 28:11-29:30
+10,2 Chronicles,2 Chronicles 1:1-2:5
+10,2 Chronicles,2 Chronicles 2:5-5:8
+10,2 Chronicles,2 Chronicles 5:9-6:42
+10,2 Chronicles,2 Chronicles 7:1-14
+10,2 Chronicles,2 Chronicles 7:14-9:31
+10,2 Chronicles,2 Chronicles 10:1-12:10
+10,2 Chronicles,2 Chronicles 12:10-15:12
+10,2 Chronicles,2 Chronicles 15:13-17:9
+10,2 Chronicles,2 Chronicles 17:9-19:2
+10,2 Chronicles,2 Chronicles 19:1-21:7
+10,2 Chronicles,2 Chronicles 21:7-24:3
+10,2 Chronicles,2 Chronicles 24:1-26:5
+10,2 Chronicles,2 Chronicles 26:4-28:4
+10,2 Chronicles,2 Chronicles 28:5-30:16
+10,2 Chronicles,2 Chronicles 30:17-32:33
+10,2 Chronicles,2 Chronicles 33
+10,2 Chronicles,2 Chronicles 34-36
+11,Romans,Romans Introduction
+11,Romans,Romans 1:1-4
+11,Romans,Romans 1:3-13
+11,Romans,Romans 1:14-20
+11,Romans,Romans 1:21-32
+11,Romans,Romans 2:1-22
+11,Romans,Romans 2:21-3:9
+11,Romans,Romans 3:5-22
+11,Romans,Romans 3:22-31
+11,Romans,Romans 4
+11,Romans,Romans 5:1-9
+11,Romans,Romans 5:9-21
+11,Romans,Romans 6:1-14
+11,Romans,Romans 6:13-23
+11,Romans,Romans 7:1-6
+11,Romans,Romans 7:7-25
+11,Romans,Romans 8:1-8
+11,Romans,Romans 8:9-17
+11,Romans,Romans 8:18-28
+11,Romans,Romans 8:28-39
+11,Romans,Romans 9:1-5
+11,Romans,Romans 9:4-24
+11,Romans,Romans 9:25-10:6
+11,Romans,Romans 10:7-11:10
+11,Romans,Romans 11:11-25
+11,Romans,Romans 11:26-12:1
+11,Romans,Romans 12:1-11
+11,Romans,Romans 12:12-13:1
+11,Romans,Romans 13
+11,Romans,Romans 14:1-5
+11,Romans,Romans 14:5-17
+11,Romans,Romans 14:17-15:3
+11,Romans,Romans 15:4-16
+11,Romans,Romans 15:15-26
+11,Romans,Romans 15:25-16:2
+11,Romans,Romans 16:1-27
+12,1 Kings,1 Kings 1:1-2:2
+12,1 Kings,1 Kings 2:2-3:5
+12,1 Kings,1 Kings 3:6-4:34
+12,1 Kings,1 Kings 5-6
+12,1 Kings,1 Kings 7:1-8:45
+12,1 Kings,1 Kings 8:46-10:22
+12,1 Kings,1 Kings 10:23-12:33
+12,1 Kings,1 Kings 13-14
+12,1 Kings,1 Kings 14:30-16:30
+12,1 Kings,1 Kings 16:30-18:17
+12,1 Kings,1 Kings 18:17-46
+12,1 Kings,1 Kings 19-20
+12,1 Kings,1 Kings 21:1-22:38
+12,1 Kings,1 Kings 22:30-2 Kings 2:22
+13,2 Kings,2 Kings 2:23-4:44
+13,2 Kings,2 Kings 5
+13,2 Kings,2 Kings 6
+13,2 Kings,2 Kings 7-8
+13,2 Kings,2 Kings 9-10
+13,2 Kings,2 Kings 11-12
+13,2 Kings,2 Kings 13-15
+13,2 Kings,"2 Kings 16, 17"
+13,2 Kings,2 Kings 18
+13,2 Kings,2 Kings 19:1-20:3
+13,2 Kings,2 Kings 20
+13,2 Kings,2 Kings 21:1-22:11
+13,2 Kings,2 Kings 22:2-23:27
+13,2 Kings,2 Kings 23:28-25:30
+14,1 Samuel,1 Samuel 1
+14,1 Samuel,1 Samuel 2:1-3:1
+14,1 Samuel,1 Samuel 3-5
+14,1 Samuel,1 Samuel 6-8
+14,1 Samuel,1 Samuel 9-10
+14,1 Samuel,1 Samuel 11-12
+14,1 Samuel,1 Samuel 13-14
+14,1 Samuel,1 Samuel 15
+14,1 Samuel,1 Samuel 16-17
+14,1 Samuel,1 Samuel 18:1-20:3
+14,1 Samuel,1 Samuel 20:3-22:2
+14,1 Samuel,1 Samuel 22-23
+14,1 Samuel,1 Samuel 24:1-25:24
+14,1 Samuel,1 Samuel 25:25-26:25
+14,1 Samuel,1 Samuel 27-28
+14,1 Samuel,1 Samuel 29-30
+14,1 Samuel,1 Samuel 31-2 Samuel 1
+15,2 Samuel,2 Samuel 2-3
+15,2 Samuel,2 Samuel 4-5
+15,2 Samuel,2 Samuel 6
+15,2 Samuel,2 Samuel 7
+15,2 Samuel,2 Samuel 8-9
+15,2 Samuel,2 Samuel 10-11
+15,2 Samuel,2 Samuel 11:27-12:31
+15,2 Samuel,2 Samuel 13-14
+15,2 Samuel,2 Samuel 15-16
+15,2 Samuel,2 Samuel 17-18
+15,2 Samuel,2 Samuel 19-20
+15,2 Samuel,2 Samuel 21:1-23:1
+15,2 Samuel,2 Samuel 23:2-24:25
+16,Acts,Acts 1:1-3
+16,Acts,Acts 1:3-26
+16,Acts,Acts 1:2-2:13
+16,Acts,Acts 2:14-47
+16,Acts,Acts 3
+16,Acts,Acts 4
+16,Acts,Acts 5
+16,Acts,Acts 6:1-7:3
+16,Acts,Acts 7
+16,Acts,Acts 8:1-26
+16,Acts,Acts 8:2-9:12
+16,Acts,Acts 9:13-38
+16,Acts,Acts 9:3-10:28
+16,Acts,Acts 10:2-11:30
+16,Acts,Acts 12
+16,Acts,Acts 13
+16,Acts,Acts 14
+16,Acts,Acts 15:1-13
+16,Acts,Acts 15:12-41
+16,Acts,Acts 15:40-16:40
+16,Acts,Acts 17:1-21
+16,Acts,Acts 17:22-18:8
+16,Acts,Acts 18:9-19:7
+16,Acts,Acts 19:2-20:5
+16,Acts,Acts 20:6-38
+16,Acts,Acts 21:1-25
+16,Acts,Acts 21:26-22:30
+16,Acts,Acts 23
+16,Acts,Acts 24
+16,Acts,Acts 24:25-25:23
+16,Acts,Acts 25:22-26:4
+16,Acts,Acts 26:1-28
+16,Acts,Acts 26:29-27:13
+16,Acts,Acts 27:14-35
+16,Acts,Acts 27:35-28:31
+17,Ruth,Ruth Introduction-1:9
+17,Ruth,Ruth 1:10-2:2
+17,Ruth,Ruth 2:3-13
+17,Ruth,Ruth 2:14-23
+17,Ruth,Ruth 3:1-3
+17,Ruth,Ruth 3:4-18
+17,Ruth,Ruth 3:18-4:22
+18,Judges,Judges 1:1-3:11
+18,Judges,Judges 3:12-4:24
+18,Judges,Judges 5
+18,Judges,Judges 6:1-35
+18,Judges,Judges 6:36-7:25
+18,Judges,Judges 8:1-10:2
+18,Judges,Judges 10:3-11:11
+18,Judges,Judges 11:8-40
+18,Judges,Judges 12-13
+18,Judges,Judges 14-16
+18,Judges,Judges 17-21
+19,Joshua,Joshua 23 - 24
+19,Joshua,Joshua 21 - 22
+19,Joshua,Joshua 19 - 20
+19,Joshua,Joshua 15-18
+19,Joshua,Joshua 12-14
